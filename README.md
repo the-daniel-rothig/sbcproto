@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GOV.UK Prototype kit
 
 ## News
@@ -42,3 +43,6 @@ We have two Slack channels for the Prototype kit. You'll need a government email
 
 * [Slack channel for users of the prototype kit](https://ukgovernmentdigital.slack.com/messages/prototype-kit/)
 * [Slack channel for developers of the prototype kit](https://ukgovernmentdigital.slack.com/messages/prototype-kit-dev/)
+=======
+# sbcproto
+>>>>>>> fcb3fd9262c7116c095039dba7385123f4627788
