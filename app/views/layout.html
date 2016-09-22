@@ -16,6 +16,18 @@
   with-proposition
 {% endblock %}
 
+{% block _content %}
+<main id="content" role="main">
+  <div class="phase-banner-alpha">
+    <p>
+      <strong class="phase-tag">PROTOTYPE</strong>
+      <span>This is a new service – your <a href="#">feedback</a> will help us to improve it.</span>
+    </p>
+  </div>
+  {% block content %}{% endblock %}
+</main>
+{% endblock %}
+
 {% block body_end %}
   {% include "includes/scripts.html" %}
   <!-- GOV.UK Prototype kit {{releaseVersion}} -->
